@@ -1,6 +1,6 @@
 # Business Insights 360
 
-Live Dashboard link: 
+Live Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiN2RhMTcyYWMtMTNjMy00MWEwLTg2NDgtMzBmNzI5MDI2NWUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Project Overview
 
@@ -9,8 +9,8 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ## Tools and skills covered
 
-- SQL
-- Excel
+- MySQL
+- MS Excel
 - Power BI
 - DAX language
 - DAX studio (for optimizing the report)
@@ -75,8 +75,6 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 
 ## Home view
-
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
 - Info
 - Finance View
