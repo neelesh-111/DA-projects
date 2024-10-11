@@ -20,4 +20,8 @@ Below is project's power point presentation.
 
 [GROWTH ANALYSIS IN TELANGANA.pptx](https://github.com/user-attachments/files/17347222/GROWTH.ANALYSIS.IN.TELANGANA.pptx)
 
+For live Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiNWNiNTQxYjQtZmRhZS00MTE3LTliNzktNzAxNmZiZWYzMzlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
