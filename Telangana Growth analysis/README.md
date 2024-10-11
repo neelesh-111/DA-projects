@@ -18,4 +18,6 @@ Finding correlation among the departments and report the overall growth of the s
 
 Below is project's power point presentation.
 
+[GROWTH ANALYSIS IN TELANGANA.pptx](https://github.com/user-attachments/files/17347222/GROWTH.ANALYSIS.IN.TELANGANA.pptx)
+
 
