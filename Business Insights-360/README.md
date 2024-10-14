@@ -60,7 +60,6 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Risk
 
 
-![soft-gradation-colors](https://github.com/user-attachments/assets/564bebfd-6020-4857-b07b-b0e8713534df)
 
 ## Importing data into PowerBi
 
